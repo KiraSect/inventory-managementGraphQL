@@ -106,7 +106,7 @@ mutation {
 ```graphql
 query {
   listProducts {
-    idhttps://github.com/KiraSect/inventory-managementGraphQL/tree/main
+    id
     name
     quantity
   }
